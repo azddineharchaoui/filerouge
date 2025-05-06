@@ -1,3 +1,9 @@
-https://lucid.app/lucidchart/99348ac7-3811-4e59-8233-1c5e8b21dfbc/edit?view_items=oyaJC_RRi7kp&invitationId=inv_df0dafc7-fdbe-4a7e-8199-8310e445be13
+Diagramme de classe 
 
-https://lucid.app/lucidchart/cd0365db-4368-4926-b831-d04f3f5146fb/edit?viewport_loc=-355%2C740%2C2190%2C1034%2C.Q4MUjXso07N&invitationId=inv_d9b569c5-4c58-48a1-93f5-be7068738ae5
+https://lucid.app/lucidchart/99348ac7-3811-4e59-8233-1c5e8b21dfbc/edit?view_items=Ahg1UAJ336nt&invitationId=inv_df0dafc7-fdbe-4a7e-8199-8310e445be13
+
+
+Diagramme de cas d'utilisation 
+
+
+https://lucid.app/lucidchart/cd0365db-4368-4926-b831-d04f3f5146fb/edit?viewport_loc=-344%2C-84%2C2017%2C952%2C.Q4MUjXso07N&invitationId=inv_d9b569c5-4c58-48a1-93f5-be7068738ae5
